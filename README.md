@@ -1,2 +1,3 @@
 # todo-react
-Created with CodeSandbox
+CodeSandboxを使って簡単なTODOアプリを作成しました。
+
